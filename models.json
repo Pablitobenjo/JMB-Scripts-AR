@@ -34,6 +34,6 @@
     "model33": { "ios": "TYR.PDB.usdz", "android": "TYR.PDB.glb" },
     "model34": { "ios": "VAL.PDB.usdz", "android": "VAL.PDB.glb" },
     "model35": { "ios": "2GGA.usdz", "android": "2GGA.glb" },
-    "model36": { "ios": "POL.usdz", "android": "1ZED.glb" },
-    "model37": { "ios": "POL.usdz", "android": "POL.glb" }
+    "model36": { "ios": "1ZED.usdz", "android": "1ZED.glb" },
+    "model37": { "ios": "POL2.usdz", "android": "POL.glb" }
 }
