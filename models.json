@@ -14,7 +14,7 @@
     "model13": { "ios": "psu.usdz", "android": "psu.glb" },
     "model14": { "ios": "melanin.usdz", "android": "melanin.glb" },
     "model15": { "ios": "ALA.PDB.usdz", "android": "ALA.PDB.glb" },
-    "model16": { "ios": "ARG.PDB.usdz", "android": "ARG.PDB.glb" },
+    "model16": { "ios": "ALA.PDB.usdz", "android": "ARG.PDB.glb" },
     "model17": { "ios": "ASN.PDB.usdz", "android": "ASN.PDB.glb" },
     "model18": { "ios": "ASP.PDB.usdz", "android": "ASP.PDB.glb" },
     "model19": { "ios": "CYS.PDB.usdz", "android": "CYS.PDB.glb" },
